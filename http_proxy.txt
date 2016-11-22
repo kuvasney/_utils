@@ -1,0 +1,3 @@
+SET HTTP_PROXY=http://USER:SUA-SENHA@PROXY:PORTA
+
+gem install --http-proxy http://USER:SUA-SENHA@PROXY:PORTA NOME_DA_GEMA
